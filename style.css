@@ -51,3 +51,10 @@ body {
 .liked {
   font-weight: bold;
 }
+
+.reactions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 10px;
+}
