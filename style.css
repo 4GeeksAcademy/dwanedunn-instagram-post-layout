@@ -58,3 +58,16 @@ body {
   gap: 0.5rem;
   padding: 10px;
 }
+
+.stats {
+  padding-left: 20px;
+}
+
+.comments > p {
+  padding: 20px;
+}
+
+.save-icon {
+  margin-left: auto;
+  padding-right: 10px;
+}
