@@ -1,2 +1,14 @@
 /* Add reset Styles */
 @import 'reset.css';
+
+body {
+  font-family: 'Roboto Flex', Arial, sans-serif;
+}
+
+.logo {
+  font-size: 2rem;
+}
+.logo-text {
+  font-size: 1rem;
+  text-transform: uppercase;
+}
