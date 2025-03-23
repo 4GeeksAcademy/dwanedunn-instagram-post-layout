@@ -43,3 +43,11 @@ body {
   margin-left: auto;
   margin-right: 20px;
 }
+
+.post {
+  border-radius: 10px;
+}
+
+.liked {
+  font-weight: bold;
+}
